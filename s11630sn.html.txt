@@ -1,0 +1,32 @@
+﻿+<!doctype html>
++<html>
++<head>
++<meta charset="utf-8">
++<title>中村勝利</title>
++</head>
++
++<body>
+中村勝利<Br>
+総合政策学部2年<Br>
+・イラスト描いてます。<Br>
+・一通りのWebデザインを学びたいです。<Br>
+・時間割<Br>
+<table width="100%">
+<tbody><tr><td colspan="7">
+</td></tr><tr>
+</tr><tr><td colspan="7">
+</td></tr>
+<tr bgcolor="#cbd7e4"><th></th><th>月</th><th>火</th><th>水</th><th>木</th><th>金</th><th nowrap="">その他</th></tr>
+<tr valign="top" bgcolor="#eeeeee"><th bgcolor="#cbd7e4">1</th><td bgcolor="#eeeeee"></td><td bgcolor="#eeeeee"></td><td bgcolor="#eeeeee"><a href="https://vu9.sfc.keio.ac.jp/sfc-sfs/sfs_class/student/s_class_top.cgi?lang=ja&amp;ks=41200&amp;yc=2012_25271&amp;id=79d29b4cbff9a688de579ac80801a1695aa2bab52e5580ed" target="_blank">ファイナンス論[Ω12]</a><br>( 菅原　周一 )<br></td><td bgcolor="#eeeeee"></td><td bgcolor="#eeeeee"></td><td rowspan="7"><a href="https://vu9.sfc.keio.ac.jp/sfc-sfs/sfs_class/student/s_class_top.cgi?lang=ja&amp;ks=16023&amp;yc=2012_26718&amp;id=79d29b4cbff9a688de579ac80801a1695aa2bab52e5580ed" target="_blank">体育３</a><br>( 佐々木　三男 )<br></td></tr>
+<tr valign="top" bgcolor="#eeeeee"><th bgcolor="#cbd7e4">2</th><td bgcolor="#eeeeee"></td><td bgcolor="#eeeeee"></td><td bgcolor="#eeeeee"><a href="https://vu9.sfc.keio.ac.jp/sfc-sfs/sfs_class/student/s_class_top.cgi?lang=ja&amp;ks=15611&amp;yc=2012_27684&amp;id=79d29b4cbff9a688de579ac80801a1695aa2bab52e5580ed" target="_blank">プロジェクト英語Ａ[ο13]</a><br>( ヘミングトン，ティム )<br></td><td bgcolor="#eeeeee"><a href="https://vu9.sfc.keio.ac.jp/sfc-sfs/sfs_class/student/s_class_top.cgi?lang=ja&amp;ks=12040&amp;yc=2012_31599&amp;id=79d29b4cbff9a688de579ac80801a1695aa2bab52e5580ed" target="_blank">Ｗｅｂデザインとマネジメント[κ23]</a><br>( 武田　圭史 )<br></td><td bgcolor="#eeeeee"></td></tr>
+<tr valign="top" bgcolor="#eeeeee"><th bgcolor="#cbd7e4">3</th><td bgcolor="#eeeeee"><a href="https://vu9.sfc.keio.ac.jp/sfc-sfs/sfs_class/student/s_class_top.cgi?lang=ja&amp;ks=04030&amp;yc=2012_25297&amp;id=79d29b4cbff9a688de579ac80801a1695aa2bab52e5580ed" target="_blank">ソーシャルイノベーション[κ23]</a><br>( 金子　郁容 )<br></td><td bgcolor="#eeeeee"></td><td bgcolor="#eeeeee"></td><td bgcolor="#eeeeee"></td><td bgcolor="#eeeeee"><a href="https://vu9.sfc.keio.ac.jp/sfc-sfs/sfs_class/student/s_class_top.cgi?lang=ja&amp;ks=03120&amp;yc=2012_27094&amp;id=79d29b4cbff9a688de579ac80801a1695aa2bab52e5580ed" target="_blank">学習環境デザインワークショップ[ε12]</a><br>( 島田　徳子 )<br></td></tr>
+<tr valign="top" bgcolor="#eeeeee"><th bgcolor="#cbd7e4">4</th><td bgcolor="#eeeeee"><a href="https://vu9.sfc.keio.ac.jp/sfc-sfs/sfs_class/student/s_class_top.cgi?lang=ja&amp;ks=10310&amp;yc=2012_25112&amp;id=79d29b4cbff9a688de579ac80801a1695aa2bab52e5580ed" target="_blank">企業会計論[ι23]</a><br>( 会田　一雄 )<br></td><td bgcolor="#eeeeee"></td><td bgcolor="#eeeeee"><a href="https://vu9.sfc.keio.ac.jp/sfc-sfs/sfs_class/student/s_class_top.cgi?lang=ja&amp;ks=16024&amp;yc=2012_27496&amp;id=79d29b4cbff9a688de579ac80801a1695aa2bab52e5580ed" target="_blank">体育２・３[]</a><br>( 加藤　幸弘 )<br></td><td bgcolor="#eeeeee"><a href="https://vu9.sfc.keio.ac.jp/sfc-sfs/sfs_class/student/s_class_top.cgi?lang=ja&amp;ks=10290&amp;yc=2012_25107&amp;id=79d29b4cbff9a688de579ac80801a1695aa2bab52e5580ed" target="_blank">金融経済ゲーミング[λ11:λ13]</a><br>( 和田　良子 )<br></td><td bgcolor="#eeeeee"><a href="https://vu9.sfc.keio.ac.jp/sfc-sfs/sfs_class/student/s_class_top.cgi?lang=ja&amp;ks=12140&amp;yc=2012_25449&amp;id=79d29b4cbff9a688de579ac80801a1695aa2bab52e5580ed" target="_blank">協創型ソフトウェア開発[ο12]</a><br>( 中鉢　欣秀 )<br></td></tr>
+<tr valign="top" bgcolor="#eeeeee"><th bgcolor="#cbd7e4">5</th><td bgcolor="#eeeeee"></td><td bgcolor="#eeeeee"></td><td bgcolor="#eeeeee"><font color="#cc0033">[SA] <a href="https://vu9.sfc.keio.ac.jp/sfc-sfs/sfs_class/faculty/f_class_top.cgi?lang=ja&amp;id=79d29b4cbff9a688de579ac80801a1695aa2bab52e5580ed&amp;yc=2012_25970&amp;ks=91020&amp;type=s" target="_blank">世界史概説[ε12]</a><br>( 遠藤　吉宗 )</font><br></td><td bgcolor="#eeeeee"><a href="https://vu9.sfc.keio.ac.jp/sfc-sfs/sfs_class/student/s_class_top.cgi?lang=ja&amp;ks=90541&amp;yc=2012_36587&amp;id=79d29b4cbff9a688de579ac80801a1695aa2bab52e5580ed" target="_blank">新しい社会の人間科学（ネットワーク社会のシステムデザイン）[τ12]</a><br>( 安西　祐一郎 )<br></td><td bgcolor="#eeeeee"><a href="https://vu9.sfc.keio.ac.jp/sfc-sfs/sfs_class/student/s_class_top.cgi?lang=ja&amp;ks=12140&amp;yc=2012_25449&amp;id=79d29b4cbff9a688de579ac80801a1695aa2bab52e5580ed" target="_blank">協創型ソフトウェア開発[ο12]</a><br>( 中鉢　欣秀 )<br></td></tr>
+<tr valign="top" bgcolor="#eeeeee"><th bgcolor="#cbd7e4">6</th><td bgcolor="#eeeeee"></td><td bgcolor="#eeeeee"></td><td bgcolor="#eeeeee"></td><td bgcolor="#eeeeee"></td><td bgcolor="#eeeeee"></td></tr>
+<tr valign="top" bgcolor="#eeeeee"><th bgcolor="#cbd7e4">7</th><td bgcolor="#eeeeee"></td><td bgcolor="#eeeeee"></td><td bgcolor="#eeeeee"></td><td bgcolor="#eeeeee"></td><td bgcolor="#eeeeee"></td></tr>
+</tbody></table>
+・作業可能な時間帯<Br>
+授業間空き時間or6限以降～<Br>
+・よろしくお願いします。
++</body>
++</html>
